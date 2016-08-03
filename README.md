@@ -1,6 +1,8 @@
-##This is a markdown file
+# Heading
 Some random text
-###Tertiary heading
+## Secondary heading
+More text
+### Tertiary heading
 **Text in bold**
 
 List:
