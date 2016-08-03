@@ -1,8 +1,7 @@
 ##This is a markdown file
-
-Heading
-##Secondary heading
+Some random text
 ###Tertiary heading
+**Text in bold**
 List:
 * item 1
 * item 2
